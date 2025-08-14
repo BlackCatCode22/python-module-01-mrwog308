@@ -1,5 +1,5 @@
 ##############################
-#   ex02.py simple input     #
+#   ex022.py simple input    #
 # ############################
 
 #print('hello world')

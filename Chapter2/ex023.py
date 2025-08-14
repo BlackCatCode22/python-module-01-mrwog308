@@ -1,5 +1,5 @@
 ##############################
-#   ex03.py gross pay calc   #
+#   ex023.py gross pay calc   #
 # ############################
 
 #print('py4e')
