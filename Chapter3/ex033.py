@@ -7,7 +7,7 @@ score = input('Enter Score: ')
 try:
     score = float(score)
     if score < 0.0 or score > 1.0:
-        raise ValueError("Score must be between 0.0 and 1.0")
+        raise ValueError('Bad Score')
     
     if score >= 0.9:
         grade = 'A'
@@ -22,5 +22,5 @@ try:
     
     print('Grade:', grade)
 except:
-    print('Invalid input. Please enter a numeric value between 0.0 and 1.0 for the score.')
+    print('Bad Score')
     # exit(1)
